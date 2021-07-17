@@ -2,9 +2,11 @@ title: Nenye Diei # your name (or website title) here
 logo: "/images/linkedInPic.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <br>
+  <br>
   Second description 
-  <br><br>
+  <br>
+  <br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
